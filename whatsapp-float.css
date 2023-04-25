@@ -1,0 +1,10 @@
+<style>
+.whatsapp-float {
+    position: fixed;
+    bottom: 8px;
+    right: 8px;
+    z-index: 100;
+    width: 8px; /* ajuste o tamanho horizontal do ícone */
+    height: 8px; /* ajuste o tamanho vertical do ícone */
+}
+</style>
